@@ -298,4 +298,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     com.qualcomm.location \
-    com.qualcomm.services.location
+    com.qualcomm.services.location \
+    footej
